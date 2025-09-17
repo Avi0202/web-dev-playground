@@ -1,0 +1,2 @@
+Amount textbox showing scroller/mouse Input
+Options apearing on top for to and from
